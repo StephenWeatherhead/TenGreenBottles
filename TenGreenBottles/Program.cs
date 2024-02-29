@@ -40,7 +40,7 @@
                 }
                 else
                 {
-                    Console.WriteLine($"There'll be {i} green bottles hanging on the wall.");
+                    Console.WriteLine($"There'll be {nextBottle} green bottles hanging on the wall.");
                 }
                 Console.WriteLine();
             }
